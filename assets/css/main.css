@@ -258,16 +258,16 @@ ul, menu, dir {
 	padding: 18px;
 }
 
-#networks .dribbble:hover {
-	color: #ed6297;
+#networks .resume:hover {
+	color: #a94b4b;
 }
 
-#networks .facebook:hover {
-	color: #3b5998;
+#networks .linkedin:hover {
+	color: #1884BB;
 }
 
-#networks .twitter:hover {
-	color: #2094CA;
+#networks .github:hover {
+	color: #36751F;
 }
 
 #networks .mail:hover {
